@@ -6,5 +6,5 @@ function add(a, b) {
     // Nanu
 	//
 	//
-    //  Tamataraaaaaaa
+    //  Tamato
 };
